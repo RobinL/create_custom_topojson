@@ -1,0 +1,12 @@
+.idea
+.ipynb_checkpoints
+*.xlsx
+
+*.pyc
+.env
+
+*.csv
+*.scratchpad.py
+/ipynb_backups/*
+hmcts_regions/
+natural_earth_data/
